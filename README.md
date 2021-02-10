@@ -1,15 +1,15 @@
 ### Hi there, I am <a href="https://jusang.online/" target="_blank">Jusang!</a> 👋
 
-😀&nbsp; I'm __Jusang__, Creative and self-motivated software engineer has been building 
+😀&nbsp;&nbsp; I'm __Jusang__, Creative and self-motivated software engineer has been building 
 and improving products for 5 years with React, Javascript,  jQuery, HTML5, CSS. 
 
-👓&nbsp; I am always down to earth and open to learn and improve myself as developer.
+👓&nbsp;&nbsp; I am always down to earth and open to learn and improve myself as developer.
 
-👀&nbsp; I'm currently learning and making it solid what I am interested in.
+👀&nbsp;&nbsp; I'm currently learning and making it solid what I am interested in.
 
 ---
 
-#### ✔ What I can do...
+#### ✔&nbsp;&nbsp; What I can do...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f6de3b?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3476be?style=flat-square)
@@ -17,7 +17,7 @@ and improving products for 5 years with React, Javascript,  jQuery, HTML5, CSS.
 ![Redux](https://img.shields.io/badge/-Redux-724bb3?style=flat-square)
 ![styled-components](https://img.shields.io/badge/-styled--components-d97293?style=flat-square)
 
-#### ✏ What I am interested in...
+#### ✏&nbsp;&nbsp; What I am interested in...
 
 ![HTML5 Canvas](https://img.shields.io/badge/-Canvas-db4c2e?style=flat-square)
 ![React Native](https://img.shields.io/badge/-ReactNative-67dbf9?style=flat-square)
